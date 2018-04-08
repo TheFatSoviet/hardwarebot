@@ -1,1 +1,1 @@
-worker: noeud bot.js
+worker node bot.js
